@@ -17,3 +17,8 @@ portfolio
 timeseries
 needlemanWunch
 watermanSmith
+trapezoidal
+predCon
+euler
+rangeKutta
+simpson
