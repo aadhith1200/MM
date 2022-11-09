@@ -15,3 +15,5 @@ multiItemEoq
 newton
 portfolio
 timeseries
+needlemanWunch
+watermanSmith
