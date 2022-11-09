@@ -22,6 +22,7 @@ predCon
 euler
 rangeKutta
 simpson
+weightedPortfolio
 
 
 
