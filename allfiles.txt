@@ -1,0 +1,17 @@
+arima.py
+arima1.py
+arma.py
+backward
+classicalEoq
+cubic
+dynamicEoqWithSetUpCost
+dynamicEoqWithoutSetUpCost
+eoqWithPriceBreak
+forward
+lagrange
+linreg
+mulreg
+multiItemEoq
+newton
+portfolio
+timeseries
